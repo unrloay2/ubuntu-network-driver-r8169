@@ -1,4 +1,4 @@
-# ubuntu_r8169
+# Problem on installing ubuntu network driver r8169
 ethernet controller driver issue
 
 Once you install a ubuntu on the computer, you have to check the model of the lan card and install the driver to connect the internet. 
